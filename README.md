@@ -1,2 +1,2 @@
 # training
-my training code
+my training projects
